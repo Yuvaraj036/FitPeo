@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-27T16:52:51 IST" name="Default suite" finished-at="2024-11-27T16:55:09 IST" duration-ms="137579">
+    <groups>
+    </groups>
+    <test started-at="2024-11-27T16:52:51 IST" name="Default test" finished-at="2024-11-27T16:55:09 IST" duration-ms="137579">
+      <class name="testCases.TestRunner">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:testCases.TestRunner@399c4be1]" started-at="2024-11-27T16:52:41 IST" name="browserLaunch" finished-at="2024-11-27T16:52:51 IST" duration-ms="10215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="homePage()[pri:0, instance:testCases.TestRunner@399c4be1]" started-at="2024-11-27T16:52:51 IST" name="homePage" finished-at="2024-11-27T16:52:53 IST" duration-ms="1268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method signature="sliderBarvalue()[pri:1, instance:testCases.TestRunner@399c4be1]" started-at="2024-11-27T16:52:53 IST" name="sliderBarvalue" finished-at="2024-11-27T16:53:49 IST" duration-ms="56501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sliderBarvalue -->
+        <test-method signature="inputFieldValue()[pri:2, instance:testCases.TestRunner@399c4be1]" started-at="2024-11-27T16:53:49 IST" name="inputFieldValue" finished-at="2024-11-27T16:54:24 IST" duration-ms="35201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputFieldValue -->
+        <test-method signature="getCheckBoxes()[pri:3, instance:testCases.TestRunner@399c4be1]" started-at="2024-11-27T16:54:24 IST" name="getCheckBoxes" finished-at="2024-11-27T16:54:25 IST" duration-ms="823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCheckBoxes -->
+        <test-method signature="validateRecurringReimbursement()[pri:4, instance:testCases.TestRunner@399c4be1]" started-at="2024-11-27T16:54:25 IST" name="validateRecurringReimbursement" finished-at="2024-11-27T16:55:09 IST" duration-ms="43594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRecurringReimbursement -->
+      </class> <!-- testCases.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
